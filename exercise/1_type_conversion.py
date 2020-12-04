@@ -1,4 +1,4 @@
-# exercise 1 - type conversion
+# type conversion
 
 name = input('What is your name?\n')
 
