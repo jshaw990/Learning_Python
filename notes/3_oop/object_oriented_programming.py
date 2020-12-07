@@ -5,6 +5,12 @@
 # classes are written in CamelCase
 # classes allow us to instantiate different objects using the same blueprint
 
+# four main pillars of OOP
+# abscration
+# encapsulation
+# inheritance 
+# polymorphism
+
 class BigObject: 
     pass
 
